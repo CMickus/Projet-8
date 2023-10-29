@@ -1,0 +1,111 @@
+{
+    "fr":{
+        "content":{
+            "title":"À propos de moi",
+            "text":"Passionné de nouvelles technologie, j'apprécie tout particulièrement la construction et la conception du code, et de la logique derrière",
+            "bonus":"Je suis également passionné par les langues étrangères,et possède la double nationnalité française et américainne"
+        },
+        "skills":[
+            {
+                "skill":"Javascript",
+                "grade":3
+            },
+            {
+                "skill":"HTML/CSS",
+                "grade":4
+            },
+            {
+                "skill":"React",
+                "grade":4
+            },
+            {
+                "skill":"Node",
+                "grade":2
+            },
+            {
+                "skill":"Audit, SEO",
+                "grade":3
+            }
+        ],
+        "langskills":[
+            {
+                "skill":"Anglais",
+                "grade":5
+            },
+            {
+                "skill":"Français",
+                "grade":5
+            },
+            {
+                "skill":"Allemand",
+                "grade":3
+            }
+        ],
+        "diplomes":[
+            {
+                "content": "Baccalauréat",
+                "time": "2016"
+            },
+            {
+                "content": "Développeur Web",
+                "time": "2023"
+            }
+        ],
+        "experiance":[
+            {
+                "content": "Service Civique dans une maternelle",
+                "time": "2022"
+            },
+            {
+                "content":"sacristain",
+                "time": "juillet 2017"
+            },
+            {
+                "content": "enseignement d'anglais",
+                "time": "2017 -2022"
+            }
+        ]
+    },
+    "en":{
+        "content":{
+            "title":"About me",
+            "text":""
+        },
+        "skills":[
+            {
+                "skill":"Javascript",
+                "grade":3
+            },
+            {
+                "skill":"HTML/CSS",
+                "grade":4
+            },
+            {
+                "skill":"React",
+                "grade":4
+            },
+            {
+                "skill":"Node",
+                "grade":2
+            },
+            {
+                "skill":"Audit, SEO",
+                "grade":3
+            }
+        ],
+        "langskills":[
+            {
+                "skill":"English",
+                "grade":3
+            },
+            {
+                "skill":"French",
+                "grade":3
+            },
+            {
+                "skill":"German",
+                "grade":3
+            }
+        ]
+    }
+}
