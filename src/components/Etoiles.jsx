@@ -7,8 +7,8 @@ import style from './Etoile.module.css'
 
 function Star({ color }) {
     if(color ==="yellow"){
-    return <img src={yellow} alt="colored rating star" />} else {
-        return <img src={grey} alt="grey rating star"/> 
+    return <img src={yellow} alt="colored rating star" className={style.star}/>} else {
+        return <img src={grey} alt="grey rating star" className={style.star}/> 
     }
 }
 export default function Etoile({ grade }) {
