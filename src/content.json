@@ -8,37 +8,45 @@
         "skills":[
             {
                 "skill":"Javascript",
-                "grade":3
+                "grade":3,
+                "infos": "J'apprécie créer des logiques, des programmes bien structurés, que ce soit des fonctions nouvelles ou optimisé d'ancien codes voir les debuggués"
             },
             {
                 "skill":"HTML/CSS",
-                "grade":4
+                "grade":4,
+                "infos":"HTML/CSS sont assez simple a comprendre mais difficile a completement maitrisé je connais surtout flexbox mais j'ai vu un peu les grid en CSS pour le HTML je passe mon fichier au test W3C et je le verifier avec wave ou d'autres extentions"
             },
             {
                 "skill":"React",
-                "grade":4
+                "grade":4,
+                "infos":"Ce site a été fait avec du React quoi que simple, je me concentre surtout sur la creations de composants réutilisable"
             },
             {
                 "skill":"Node",
-                "grade":2
+                "grade":2,
+                "infos":"Je ne connais que les bases de Node.js mais je peux creer une base de donner et un serveur de base pour un site web afin de le lancer"
             },
             {
                 "skill":"Audit, SEO",
-                "grade":3
+                "grade":3,
+                "infos":"Je sais faire un audit google et modifier un site pour qu'il respecte les recommandations google et améliorer son SEO"
             }
         ],
         "langskills":[
             {
                 "skill":"Anglais",
-                "grade":5
+                "grade":5,
+                "infos":"De nationnalité Franco-Américaine c'est l'une de mes langues maternelle, j'utilise plus l'anglais que le français dans ma vie de tout les jours"
             },
             {
                 "skill":"Français",
-                "grade":5
+                "grade":5,
+                "infos":"De nationnalité Franco-Américaine c'est l'une de mes langues maternelle"
             },
             {
                 "skill":"Allemand",
-                "grade":3
+                "grade":3,
+                "infos":"De niveau B1 d'aprè l'institut Goethe j'ai fait un voyage-cours à Schwäbisch Hall pour continuer à apprendre cette langue"
             }
         ],
         "diplomes":[
@@ -69,42 +77,51 @@
     "en":{
         "content":{
             "title":"About me",
-            "text":""
+            "text":"Passionate about new technology, I particularly enjoy building and designing code, and the logic behind it.",
+            "bonus": "I have also a passion for foreign languages, and am both a French and American citizen"
         },
         "skills":[
             {
                 "skill":"Javascript",
-                "grade":3
+                "grade":3,
+                "infos":"I enjoy creating logics and well-build programs, whether is is new functions or simply optimizing old code, or begguging it"
             },
             {
                 "skill":"HTML/CSS",
-                "grade":4
+                "grade":4,
+                "infos":"HTML/CSS are relatively simple to understand but difficult to completely master. I mostly use flexbox but I've heard of grid. For HTML I usually run my file through tje W3C test and checking it with wave or other extentions"
             },
             {
                 "skill":"React",
-                "grade":4
+                "grade":4,
+                "infos":"This website was made using React, although it is a simple one. I'm focusing on creating reusable components as mush as possible"
             },
             {
                 "skill":"Node",
-                "grade":2
+                "grade":2,
+                "infos":"I only know the basics of Node.js but I can create databases and basic servers for websites"
             },
             {
                 "skill":"Audit, SEO",
-                "grade":3
+                "grade":3,
+                "infos":"I know how to do a Google audit on a site and make it comply to Google recommendations and improve its SEO"
             }
         ],
         "langskills":[
             {
                 "skill":"English",
-                "grade":3
+                "grade":3,
+                "infos":"Having both French and American nationalities, it is one of my mother tongues. I use English more often than french in my day to day life"
             },
             {
                 "skill":"French",
-                "grade":3
+                "grade":3,
+                "infos":"Having both French and American nationalities, it is one of my mother tongues."
             },
             {
                 "skill":"German",
-                "grade":3
+                "grade":3,
+                "infos":"According to the Goethe Institut, I have a B1 level. I did a 1 month trip to Schwäbisch Hall to learn more about german"
             }
         ]
     }
