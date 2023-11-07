@@ -7,8 +7,6 @@ import Nav from './Nav'
 export function Header() {
     return (
         <header /*className={style.headerstyle}*/>
-            
-            <Nav/>
         </header>
     )
 }

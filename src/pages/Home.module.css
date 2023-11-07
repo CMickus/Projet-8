@@ -16,3 +16,20 @@
     justify-content: space-around;
     height: 200px;
 }
+
+.simpleBloc{
+    display: flex;
+    justify-content: space-around;
+}
+
+.simpleContent{
+}
+
+
+.hiddenTextSt{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left:12.5%;
+    width: 75%;
+}
