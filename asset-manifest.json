@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CMickus/Projet-8/static/css/main.57e03a18.css",
+    "main.js": "/CMickus/Projet-8/static/js/main.35dcfff2.js",
+    "index.html": "/CMickus/Projet-8/index.html",
+    "static/media/arrowup.svg": "/CMickus/Projet-8/static/media/arrowup.7c594696091b58e2649951ec63b376c1.svg",
+    "static/media/Arrowleft.svg": "/CMickus/Projet-8/static/media/Arrowleft.cdd03842d31401ee166dc7512d262702.svg",
+    "main.57e03a18.css.map": "/CMickus/Projet-8/static/css/main.57e03a18.css.map",
+    "main.35dcfff2.js.map": "/CMickus/Projet-8/static/js/main.35dcfff2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57e03a18.css",
+    "static/js/main.35dcfff2.js"
+  ]
+}
