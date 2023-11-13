@@ -16,7 +16,7 @@ export function Home() {
     /*<Slideshow prop={contentlist.screenshots}/>*/
     return (
         <>
-            <p>Hello</p>
+            <Slideshow/>
             <div className={style.explanation}>
                 <h1 className={style.explatitle}>{contentlist.fr.content.title}</h1>
                 <p>{contentlist.fr.content.text}</p>

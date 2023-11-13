@@ -11,7 +11,7 @@
   
   .pictures {
     display: flex;
-    object-fit: cover;
+    object-fit:scale-down;
     width: 92%;
     position: relative;
     justify-self: center;

@@ -10,7 +10,7 @@ export function Footer() {
                 <a href="https://www.linkedin.com/in/colin-mickus-845558260/"><img src={logolinkedin} alt='logo de linkedin' className={style.footerlink}/></a>
                 <a href="https://github.com/CMickus"><img src={logogit} alt='logo de github' className={style.footerlink} /></a>
             </div>
-            <div>
+            <div className={style.text}>
                 <p>mickuscolin@gmail.com</p>
                 <p>Colin Mickus</p>
             </div>
