@@ -21,10 +21,6 @@
     justify-content: space-around;
 }
 
-.simpleContent{
-}
-
-
 .hiddenTextSt{
     display: flex;
     flex-direction: row;
