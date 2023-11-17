@@ -10,8 +10,8 @@ function App() {
   return (
       <Routes>
         <Route path="/" element={<BaseLayout/>}>
-          <Route index element={<Home />} />
-          <Route path="location/:id" element={<Home/>} />
+          <Route index element={<Home/>}/>
+          <Route path="/:lang" element={<Home/>} />
         </Route>
       </Routes>
   );

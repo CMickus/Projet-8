@@ -1,7 +1,7 @@
 {
     "fr":{
         "content":{
-            "title":"À propos de moi",
+            "title":"Colin Mickus",
             "text":"Passionné de nouvelles technologie, j'apprécie tout particulièrement la construction et la conception du code, et de la logique derrière",
             "bonus":"Je suis également passionné par les langues étrangères,et possède la double nationnalité française et américainne"
         },
@@ -65,18 +65,18 @@
                 "time": "2022"
             },
             {
-                "content":"sacristain",
+                "content":"Sacristain",
                 "time": "juillet 2017"
             },
             {
-                "content": "enseignement d'anglais",
-                "time": "2017 -2022"
+                "content": "Enseignement d'anglais",
+                "time": "2017-2022"
             }
         ]
     },
     "en":{
         "content":{
-            "title":"About me",
+            "title":"Colin Mickus",
             "text":"Passionate about new technology, I particularly enjoy building and designing code, and the logic behind it.",
             "bonus": "I have also a passion for foreign languages, and am both a French and American citizen"
         },
@@ -107,6 +107,16 @@
                 "infos":"I know how to do a Google audit on a site and make it comply to Google recommendations and improve its SEO"
             }
         ],
+        "diplomes":[
+            {
+                "content": "Baccalauréat",
+                "time": "2016"
+            },
+            {
+                "content": "Web Developper",
+                "time": "2023"
+            }
+        ],
         "langskills":[
             {
                 "skill":"English",
@@ -122,6 +132,20 @@
                 "skill":"German",
                 "grade":3,
                 "infos":"According to the Goethe Institut, I have a B1 level. I did a 1 month trip to Schwäbisch Hall to learn more about german"
+            }
+        ],
+        "experiance":[
+            {
+                "content": "Civic service in a preschool",
+                "time": "2022"
+            },
+            {
+                "content":"Sacristain",
+                "time": "juillet 2017"
+            },
+            {
+                "content": "English after-school teacher",
+                "time": "2017 -2022"
             }
         ]
     }
