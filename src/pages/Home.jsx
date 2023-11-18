@@ -9,19 +9,21 @@ import HiddenText from '../components/HiddenText';
 import Slideshow from '../components/Slideshow';
 
 export function Home() {
-    const {lang} = useParams();
-    let langParam = lang || 'fr' 
+    const { lang } = useParams();
+    let langParam = lang || 'fr'
     console.log(lang, langParam);
     let contentListLang = contentlist.fr
-    if (langParam === 'en'){
+    if (langParam === 'en') {
         contentListLang = contentlist.en
     }
     return (
-        <>  
+        <>
             <div className={style.explanation}>
                 <h1 className={style.explatitle}>{contentListLang.content.title}</h1>
-                <p>{contentListLang.content.text}</p>
-                <p>{contentListLang.content.bonus}</p>
+                
+                    <p className={style.explatext}>{contentListLang.content.text}</p>
+                    <p className={style.explatext}>{contentListLang.content.bonus}</p>
+                
             </div>
             <div className={style.bloclists}>
                 <div >
@@ -53,7 +55,7 @@ export function Home() {
             </div>
             <div>
                 <h2>Projet précédents</h2>
-            <Slideshow/>
+                <Slideshow />
             </div>
         </>
     )

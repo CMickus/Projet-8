@@ -2,29 +2,29 @@
     "fr":{
         "content":{
             "title":"Colin Mickus",
-            "text":"Passionné de nouvelles technologie, j'apprécie tout particulièrement la construction et la conception du code, et de la logique derrière",
-            "bonus":"Je suis également passionné par les langues étrangères,et possède la double nationnalité française et américainne"
+            "text":"Passionné de nouvelles technologies, j'apprécie tout particulièrement la construction et la conception du code, et de la logique derrière",
+            "bonus":"Je suis également passionné par les langues étrangères, et possède la double nationnalité française et américainne"
         },
         "skills":[
             {
                 "skill":"Javascript",
                 "grade":3,
-                "infos": "J'apprécie créer des logiques, des programmes bien structurés, que ce soit des fonctions nouvelles ou optimisé d'ancien codes voir les debuggués"
+                "infos": "J'apprécie créer des logiques, des programmes bien structurés, que ce soit des fonctions nouvelles ou optimisés d'ancien codes voir les debuggués"
             },
             {
                 "skill":"HTML/CSS",
                 "grade":4,
-                "infos":"HTML/CSS sont assez simple a comprendre mais difficile a completement maitrisé je connais surtout flexbox mais j'ai vu un peu les grid en CSS pour le HTML je passe mon fichier au test W3C et je le verifier avec wave ou d'autres extentions"
+                "infos":"HTML/CSS sont assez simple à comprendre mais difficile à completement maitriser, je connais surtout flexbox mais j'ai vu un peu les grid en CSS pour le HTML, je passe mon fichier au test W3C et je le verifie avec wave ou d'autres extentions"
             },
             {
                 "skill":"React",
                 "grade":4,
-                "infos":"Ce site a été fait avec du React quoi que simple, je me concentre surtout sur la creations de composants réutilisable"
+                "infos":"Ce site a été fait avec du React quoique simple, je me concentre surtout sur la créations de composants réutilisable"
             },
             {
                 "skill":"Node",
                 "grade":2,
-                "infos":"Je ne connais que les bases de Node.js mais je peux creer une base de donner et un serveur de base pour un site web afin de le lancer"
+                "infos":"Je ne connais que les bases de Node.js mais je peux créer une base de données et un serveur de base pour un site web afin de le lancer"
             },
             {
                 "skill":"Audit, SEO",
@@ -46,7 +46,7 @@
             {
                 "skill":"Allemand",
                 "grade":3,
-                "infos":"De niveau B1 d'aprè l'institut Goethe j'ai fait un voyage-cours à Schwäbisch Hall pour continuer à apprendre cette langue"
+                "infos":"De niveau B1 d'après l'institut Goethe, j'ai fait un voyage-cours à Schwäbisch Hall pour continuer à apprendre cette langue."
             }
         ],
         "diplomes":[
@@ -89,7 +89,7 @@
             {
                 "skill":"HTML/CSS",
                 "grade":4,
-                "infos":"HTML/CSS are relatively simple to understand but difficult to completely master. I mostly use flexbox but I've heard of grid. For HTML I usually run my file through tje W3C test and checking it with wave or other extentions"
+                "infos":"HTML/CSS are relatively simple to understand but difficult to completely master. I mostly use flexbox but I've heard of grid. For HTML I usually run my file through the W3C test and checking it with wave or other extentions"
             },
             {
                 "skill":"React",
